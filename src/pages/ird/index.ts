@@ -1,0 +1,1 @@
+export { IRDRoutes } from './IRDRoutes';
